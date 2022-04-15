@@ -1,0 +1,3 @@
+C:/Users/pwlqr/source/repos/HW1 Eric - processor scadualing/cmake-build-debug/CMakeFiles/HW1_Eric___processor_scadualing.dir
+C:/Users/pwlqr/source/repos/HW1 Eric - processor scadualing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pwlqr/source/repos/HW1 Eric - processor scadualing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
